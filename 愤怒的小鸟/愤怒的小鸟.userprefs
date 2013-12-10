@@ -1,12 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\SceneLoader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\General\Display.cs">
     <Files>
-      <File FileName="Assets\Script\MainMenu.cs" Line="23" Column="6" />
-      <File FileName="Assets\Script\Loading.cs" Line="21" Column="1" />
-      <File FileName="Assets\Script\SceneLoader.cs" Line="10" Column="19" />
-      <File FileName="Assets\Script\General\ShowLogo.cs" Line="33" Column="27" />
-      <File FileName="Assets\Script\General\Display.cs" Line="12" Column="26" />
+      <File FileName="Assets\Script\General\ShowLogo.cs" Line="23" Column="1" />
+      <File FileName="Assets\Script\General\Display.cs" Line="27" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
