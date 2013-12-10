@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\General\Display.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\TitleBGM\TitileBGMControler.cs">
     <Files>
-      <File FileName="Assets\Script\General\ShowLogo.cs" Line="23" Column="1" />
-      <File FileName="Assets\Script\General\Display.cs" Line="27" Column="4" />
+      <File FileName="Assets\Script\TitleBGM\TitileBGMControler.cs" Line="16" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
