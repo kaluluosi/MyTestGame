@@ -19,6 +19,7 @@ public class ShowLogo : MonoBehaviour
 		{
 				SetAlpha (0);
 				alphaSpeed = maxAlpha / sceneDelay / (ShowDelay * 10);
+				
 		}
 	
 		// Update is called once per frame
