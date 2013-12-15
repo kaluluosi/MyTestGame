@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.愤怒的小鸟.CSharp", "UnityVS.愤怒的小鸟.CSharp.csproj", "{7FEB8E63-0A50-8A38-7358-80E221D4D605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.愤怒的小鸟.CSharp.Editor", "UnityVS.愤怒的小鸟.CSharp.Editor.csproj", "{A9CA4AB2-FD87-523C-B448-007582F7966E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FEB8E63-0A50-8A38-7358-80E221D4D605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEB8E63-0A50-8A38-7358-80E221D4D605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEB8E63-0A50-8A38-7358-80E221D4D605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEB8E63-0A50-8A38-7358-80E221D4D605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CA4AB2-FD87-523C-B448-007582F7966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CA4AB2-FD87-523C-B448-007582F7966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CA4AB2-FD87-523C-B448-007582F7966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CA4AB2-FD87-523C-B448-007582F7966E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
