@@ -24,22 +24,67 @@ TextureImporter:
   maxTextureSize: 4096
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   textureType: 5
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: INGAME_SKIES_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 486
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: INGAME_SKIES_1_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 733
+        width: 496
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: INGAME_SKIES_1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 486
+        height: 324
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: INGAME_SKIES_1_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 445
+        width: 494
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: INGAME_SKIES_1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 486
+        height: 329
+      alignment: 0
+      pivot: {x: .5, y: .5}
   spritePackingTag: 
   userData: 

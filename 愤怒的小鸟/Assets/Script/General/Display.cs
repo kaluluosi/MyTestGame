@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
 public class Display : MonoBehaviour
 {
 		public enum DisplayMode
@@ -30,9 +31,6 @@ public class Display : MonoBehaviour
 				case DisplayMode.FullScreen:
 						inset.height = Screen.height;
 						inset.width = Screen.width;
-
-//						inset.height = guiTexture.pixelInset.height;
-//						inset.width = guiTexture.pixelInset.width;
 				
 						inset.x = -inset.width / 2;
 						inset.y = -inset.height / 2;
